@@ -10,6 +10,10 @@ Ver carpeta `raw` dentro de src/.
 
 Ver carpeta `components` dentro de src/
 
+### MEMOS
+- cuando se tiene mas de un `reducer` se debe utilizar la funcion `combineReducers`
+    ver `raw/redux.js` linea 88.
+
 ## Available Scripts
 
 In the project directory, you can run:
